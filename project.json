@@ -1,0 +1,10 @@
+{
+  "name": "my-nextjs-netlify-cms",
+  "$schema": "node_modules/nx/schemas/project-schema.json",
+  "includedScripts": [],
+  "sourceRoot": ".",
+  "projectType": "application",
+  "tags": [],
+  "// targets": "to see all targets run: nx show project my-nextjs-netlify-cms --web",
+  "targets": {}
+}

@@ -1,13 +1,13 @@
 {
-  "regions": [
+  "alerts": [
     {
-      "title": "Region 2",
-      "body": "<h3>This is region 2!!??</h3><p>Well <strong>then</strong>?</p>",
+      "title": "Alert 2",
+      "body": "<h3>This is alert!!??</h3><p>Well <strong>then</strong>?</p><p><img width=\"300\" src=\"https://www.catschool.co/wp-content/uploads/2023/06/orange-tabby-kitten-1024x731.png\"></p>",
       "id": 2
     },
     {
       "title": "Hello",
-      "body": "There",
+      "body": "<p><span style=\"color: rgb(0, 0, 0)\">Lorem ipsum dolor sit amet, consectetur adipiscing elit. Nulla lobortis tellus vel dictum facilisis. Donec pellentesque vel urna sed finibus. Nullam at ullamcorper enim. Curabitur semper ex massa, ac finibus enim hendrerit vitae. Morbi ultrices lectus leo, id suscipit urna gravida eget. Duis ullamcorper tristique malesuada. Quisque porta metus eu est faucibus, auctor sagittis augue finibus. Nullam et ligula elementum lacus viverra iaculis.</span></p>",
       "id": 3
     }
   ]

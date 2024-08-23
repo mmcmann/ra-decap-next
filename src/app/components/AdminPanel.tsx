@@ -37,7 +37,7 @@ const RegionCreate = (props: React.PropsWithChildren) => (
 
 const AdminPanel = () => (
   <Admin dataProvider={dataProvider}>
-    <Resource name="regions" list={RegionList} edit={RegionEdit} create={RegionCreate} />
+    <Resource name="alerts" list={RegionList} edit={RegionEdit} create={RegionCreate} />
   </Admin>
 );
 
